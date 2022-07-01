@@ -13,3 +13,4 @@ Github repolarımda yapmış olduğum 2 tane basit Flutter projem mevcut.
 Kariyerimi mobil uygulama geliştirme alanında şekillendirmeyi planlıyorum.
 
 2 Projemi de Play Store'a yükleyerek uygulama yükleme konusunda az da olsa tecrübe kazandım.
+LinkedIn Profilim : https://www.linkedin.com/in/alperyuceer/
