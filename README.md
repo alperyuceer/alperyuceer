@@ -11,4 +11,5 @@ Kariyerimi mobil uygulama geliştirme alanında şekillendirmeyi planlıyorum.
 
 1 Projemi de Play Store'a yükleyerek uygulama yükleme konusunda az da olsa tecrübe kazandım.
 Komik Replikler: https://play.google.com/store/apps/details?id=com.alperyuceer.komik_replikler
+
 LinkedIn Profilim : https://www.linkedin.com/in/alperyuceer/
