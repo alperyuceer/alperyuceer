@@ -4,12 +4,12 @@ Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Jr. Software Engineer
 ---------------------
 
-Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etmekteyim. Çeşitli diller ve frameworkleri kendi kendime öğrenme çabalarım oldu. En uzun soluklusu Flutter ve Kotlin oldu. Şuan kendimi tamamen Android native uygulamalar geliştirme konusunda eğitmeye çalışıyorum. Önceden Java ile geliştirmeye çalışırken Kotlin'e geçiş yaptım ve şuan kotlin öğreniyorum. Flutter'la ise ufak da olsa bir uygulama geliştirdim ve Google Play Store'a yayınladım. Bu sayede Play Store'a uygulama yükleme konusunda tecrübem oldu. Önümüzdeki yaz tatilinde 30 gün zorunlu yaz stajım için staj yeri arayışım vardır.
+Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etmekteyim. Çeşitli diller ve frameworkleri kendi kendime öğrenme çabalarım oldu. Şuan kendimi tamamen Android native uygulamalar geliştirme konusunda eğitmeye çalışıyorum. Önceden Java ile geliştirmeye çalışırken Kotlin'e geçiş yaptım ve şuan jetpack compose öğreniyorum. Kotlin ile geliştirdiğim bir uygulamayı Play Store'da yayınladım. Bu sayede Play Store'a uygulama yükleme konusunda tecrübem oldu. Önümüzdeki yaz tatilinde 30 gün zorunlu yaz stajım için staj yeri arayışım vardır.
 
 * 🌍  Ankara'da yaşıyorum
 * 🖥️  [CV'mi Buradan İndirebilirsiniz](https://drive.google.com/file/d/17A40Q1LvyvVVf687eoOI0P8Bup3w1IGW/view?usp=sharing)
 * ✉️  Mail adresim: [yuceeralper06@gmail.com](mailto:yuceeralper06@gmail.com)
-* 🚀  Flutter ile geliştirdiğim projem: [Komik Replikler](http://play.google.com/store/apps/details?id=com.alperyuceer.komik_replikler)
+* 🚀  Kotlin ile geliştirdiğim projem: [Komik Replikler](http://play.google.com/store/apps/details?id=com.alperyuceer.komik_replikler)
 * 🧠  Şuanda Android native uygulama geliştirmek için Kotlin öğreniyorum
 
 ### Skills
