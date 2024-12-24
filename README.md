@@ -1,15 +1,15 @@
 Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Ben Alper YÜCEER
 ====================================================================================================================================
 
-Jr. Software Engineer
+Native Android Developer
 ---------------------
 
 Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etmekteyim. Çeşitli diller ve frameworkleri kendi kendime öğrenme çabalarım oldu. Şuan kendimi tamamen Android native uygulamalar geliştirme konusunda eğitmeye çalışıyorum. Önceden Java ile geliştirmeye çalışırken Kotlin'e geçiş yaptım ve şuan jetpack compose öğreniyorum. Kotlin ile geliştirdiğim bir uygulamayı Play Store'da yayınladım. Bu sayede Play Store'a uygulama yükleme konusunda tecrübem oldu. Önümüzdeki yaz tatilinde 30 gün zorunlu yaz stajım için staj yeri arayışım vardır.
 
 * 🌍  Ankara'da yaşıyorum
-* 🖥️  [CV'mi Buradan İndirebilirsiniz](https://drive.google.com/file/d/17A40Q1LvyvVVf687eoOI0P8Bup3w1IGW/view?usp=sharing)
+* 🖥️  [CV'mi Buradan İndirebilirsiniz](https://drive.google.com/file/d/1fLsx98jmcxpKLvX93h2HBYX6CyPuLDlI/view?usp=sharing)
 * ✉️  Mail adresim: [yuceeralper06@gmail.com](mailto:yuceeralper06@gmail.com)
-* 🚀  Kotlin ile geliştirdiğim projem: [Komik Replikler](http://play.google.com/store/apps/details?id=com.alperyuceer.komik_replikler)
+* 🚀  Play Store Hesabım: [Alpify](http://play.google.com/store/apps/developer?id=)
 * 🧠  Şuanda Android native uygulama geliştirmek için Kotlin öğreniyorum
 
 ### Skills
@@ -30,13 +30,3 @@ Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etme
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/alperyuceer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com//alper_yuceer06/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alperyuceer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alperyuceer06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alperyuceer"><img src="https://github-readme-stats.vercel.app/api?username=alperyuceer&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alperyuceer's GitHub stats" /></a>
-
-<a href="http://www.github.com/alperyuceer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alperyuceer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/alperyuceer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alperyuceer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
