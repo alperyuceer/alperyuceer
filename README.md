@@ -9,7 +9,7 @@ Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etme
 * 🌍  Ankara'da yaşıyorum
 * 🖥️  [CV'mi Buradan İndirebilirsiniz](https://drive.google.com/file/d/1fLsx98jmcxpKLvX93h2HBYX6CyPuLDlI/view?usp=sharing)
 * ✉️  Mail adresim: [yuceeralper06@gmail.com](mailto:yuceeralper06@gmail.com)
-* 🚀  Play Store Hesabım: [Alpify](http://play.google.com/store/apps/developer?id=)
+* 🚀  Play Store Hesabım: [Alpify](https://play.google.com/store/apps/developer?id=Alpify)
 * 🧠  Şuanda Android native uygulama geliştirmek için Kotlin öğreniyorum
 
 ### Skills
