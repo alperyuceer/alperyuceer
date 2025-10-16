@@ -4,7 +4,7 @@ Merhaba ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Native Android Developer
 ---------------------
 
-Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet etmekteyim. Çeşitli diller ve frameworkleri kendi kendime öğrenme çabalarım oldu. Şuan kendimi tamamen Android native uygulamalar geliştirme konusunda eğitmeye çalışıyorum. Önceden Java ile geliştirmeye çalışırken Kotlin'e geçiş yaptım ve şuan jetpack compose öğreniyorum. Kotlin ile geliştirdiğim bir uygulamayı Play Store'da yayınladım. Ply store'a uygulama yükleme, güncelleme yollama konusunda tecrübem var. Ayrıca GOLANG de öğreniyorum.
+Selçuk Üniversitesi bilgisayar mühendisliği mezunuyum. Ankara'da ikamet ediyorum. Çeşitli diller ve frameworkleri kendi kendime öğrenme çabalarım oldu. Şuan kendimi tamamen Android native uygulamalar geliştirme konusunda eğitmeye çalışıyorum. Önceden Java ile geliştirmeye çalışırken Kotlin'e geçiş yaptım ve şuan jetpack compose öğreniyorum. Kotlin ile geliştirdiğim bir uygulamayı Play Store'da yayınladım. Play store'a uygulama yükleme, güncelleme yollama konusunda tecrübem var.
 
 * 🌍  Ankara'da yaşıyorum
 * 🖥️  [CV'mi Buradan İndirebilirsiniz](https://drive.google.com/file/d/1fLsx98jmcxpKLvX93h2HBYX6CyPuLDlI/view?usp=sharing)
